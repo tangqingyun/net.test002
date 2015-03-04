@@ -1,0 +1,882 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://UniCard.uni2uni.com/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://UniCard.uni2uni.com/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://UniCard.uni2uni.com/">
+      <s:element name="CardLogin">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sXml" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CardLoginResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="CardLoginResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="PayLogin">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sXml" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="PayLoginResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="PayLoginResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="Consume">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sXml" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ConsumeResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ConsumeResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ConsumeCancel">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sXml" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ConsumeCancelResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ConsumeCancelResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="Delivery">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sXml" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="DeliveryResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="DeliveryResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="DeliveryList">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sXml" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="DeliveryListResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="DeliveryListResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetAllCardType">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sXml" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetAllCardTypeResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetAllCardTypeResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetCardType">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sXml" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetCardTypeResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetCardTypeResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetPayRecord">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sXml" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetPayRecordResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetPayRecordResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetPayByUserData">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sXml" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetPayByUserDataResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetPayByUserDataResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetGoodsRecord">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sXml" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetGoodsRecordResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetGoodsRecordResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetCardTree">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sXml" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetCardTreeResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetCardTreeResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetTypeTree">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sXml" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetTypeTreeResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetTypeTreeResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetTopicGiftCardList">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sXml" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetTopicGiftCardListResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetTopicGiftCardListResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="PayActive">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sXml" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="PayActiveResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="PayActiveResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetCardSendLogByCardNo">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="strCardNo" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetCardSendLogByCardNoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetCardSendLogByCardNoResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetActiveCodeByRelatedId">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="strRelatedId" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strValidateCode" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetActiveCodeByRelatedIdResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetActiveCodeByRelatedIdResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetMobileByRelatedId">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="strRelatedId" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetMobileByRelatedIdResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetMobileByRelatedIdResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CardActive">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="strRelatedId" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strActiveCode" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="appId" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CardActiveResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="CardActiveResult" type="tns:CardActiveResult" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:simpleType name="CardActiveResult">
+        <s:restriction base="s:string">
+          <s:enumeration value="激活失败" />
+          <s:enumeration value="激活成功" />
+          <s:enumeration value="找不到该订单激活记录" />
+          <s:enumeration value="手机号码为空" />
+          <s:enumeration value="订单号为空" />
+          <s:enumeration value="激活码为空" />
+          <s:enumeration value="激活码错误" />
+          <s:enumeration value="手机号码错误" />
+          <s:enumeration value="该订单已被激活过" />
+        </s:restriction>
+      </s:simpleType>
+      <s:element name="ValidateMobileAndActiveCard">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="strRelatedId" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strActiveCode" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="strMobile" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="appId" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ValidateMobileAndActiveCardResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="ValidateMobileAndActiveCardResult" type="tns:CardActiveResult" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="CardLoginSoapIn">
+    <wsdl:part name="parameters" element="tns:CardLogin" />
+  </wsdl:message>
+  <wsdl:message name="CardLoginSoapOut">
+    <wsdl:part name="parameters" element="tns:CardLoginResponse" />
+  </wsdl:message>
+  <wsdl:message name="PayLoginSoapIn">
+    <wsdl:part name="parameters" element="tns:PayLogin" />
+  </wsdl:message>
+  <wsdl:message name="PayLoginSoapOut">
+    <wsdl:part name="parameters" element="tns:PayLoginResponse" />
+  </wsdl:message>
+  <wsdl:message name="ConsumeSoapIn">
+    <wsdl:part name="parameters" element="tns:Consume" />
+  </wsdl:message>
+  <wsdl:message name="ConsumeSoapOut">
+    <wsdl:part name="parameters" element="tns:ConsumeResponse" />
+  </wsdl:message>
+  <wsdl:message name="ConsumeCancelSoapIn">
+    <wsdl:part name="parameters" element="tns:ConsumeCancel" />
+  </wsdl:message>
+  <wsdl:message name="ConsumeCancelSoapOut">
+    <wsdl:part name="parameters" element="tns:ConsumeCancelResponse" />
+  </wsdl:message>
+  <wsdl:message name="DeliverySoapIn">
+    <wsdl:part name="parameters" element="tns:Delivery" />
+  </wsdl:message>
+  <wsdl:message name="DeliverySoapOut">
+    <wsdl:part name="parameters" element="tns:DeliveryResponse" />
+  </wsdl:message>
+  <wsdl:message name="DeliveryListSoapIn">
+    <wsdl:part name="parameters" element="tns:DeliveryList" />
+  </wsdl:message>
+  <wsdl:message name="DeliveryListSoapOut">
+    <wsdl:part name="parameters" element="tns:DeliveryListResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetAllCardTypeSoapIn">
+    <wsdl:part name="parameters" element="tns:GetAllCardType" />
+  </wsdl:message>
+  <wsdl:message name="GetAllCardTypeSoapOut">
+    <wsdl:part name="parameters" element="tns:GetAllCardTypeResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetCardTypeSoapIn">
+    <wsdl:part name="parameters" element="tns:GetCardType" />
+  </wsdl:message>
+  <wsdl:message name="GetCardTypeSoapOut">
+    <wsdl:part name="parameters" element="tns:GetCardTypeResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetPayRecordSoapIn">
+    <wsdl:part name="parameters" element="tns:GetPayRecord" />
+  </wsdl:message>
+  <wsdl:message name="GetPayRecordSoapOut">
+    <wsdl:part name="parameters" element="tns:GetPayRecordResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetPayByUserDataSoapIn">
+    <wsdl:part name="parameters" element="tns:GetPayByUserData" />
+  </wsdl:message>
+  <wsdl:message name="GetPayByUserDataSoapOut">
+    <wsdl:part name="parameters" element="tns:GetPayByUserDataResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetGoodsRecordSoapIn">
+    <wsdl:part name="parameters" element="tns:GetGoodsRecord" />
+  </wsdl:message>
+  <wsdl:message name="GetGoodsRecordSoapOut">
+    <wsdl:part name="parameters" element="tns:GetGoodsRecordResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetCardTreeSoapIn">
+    <wsdl:part name="parameters" element="tns:GetCardTree" />
+  </wsdl:message>
+  <wsdl:message name="GetCardTreeSoapOut">
+    <wsdl:part name="parameters" element="tns:GetCardTreeResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetTypeTreeSoapIn">
+    <wsdl:part name="parameters" element="tns:GetTypeTree" />
+  </wsdl:message>
+  <wsdl:message name="GetTypeTreeSoapOut">
+    <wsdl:part name="parameters" element="tns:GetTypeTreeResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetTopicGiftCardListSoapIn">
+    <wsdl:part name="parameters" element="tns:GetTopicGiftCardList" />
+  </wsdl:message>
+  <wsdl:message name="GetTopicGiftCardListSoapOut">
+    <wsdl:part name="parameters" element="tns:GetTopicGiftCardListResponse" />
+  </wsdl:message>
+  <wsdl:message name="PayActiveSoapIn">
+    <wsdl:part name="parameters" element="tns:PayActive" />
+  </wsdl:message>
+  <wsdl:message name="PayActiveSoapOut">
+    <wsdl:part name="parameters" element="tns:PayActiveResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetCardSendLogByCardNoSoapIn">
+    <wsdl:part name="parameters" element="tns:GetCardSendLogByCardNo" />
+  </wsdl:message>
+  <wsdl:message name="GetCardSendLogByCardNoSoapOut">
+    <wsdl:part name="parameters" element="tns:GetCardSendLogByCardNoResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetActiveCodeByRelatedIdSoapIn">
+    <wsdl:part name="parameters" element="tns:GetActiveCodeByRelatedId" />
+  </wsdl:message>
+  <wsdl:message name="GetActiveCodeByRelatedIdSoapOut">
+    <wsdl:part name="parameters" element="tns:GetActiveCodeByRelatedIdResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetMobileByRelatedIdSoapIn">
+    <wsdl:part name="parameters" element="tns:GetMobileByRelatedId" />
+  </wsdl:message>
+  <wsdl:message name="GetMobileByRelatedIdSoapOut">
+    <wsdl:part name="parameters" element="tns:GetMobileByRelatedIdResponse" />
+  </wsdl:message>
+  <wsdl:message name="CardActiveSoapIn">
+    <wsdl:part name="parameters" element="tns:CardActive" />
+  </wsdl:message>
+  <wsdl:message name="CardActiveSoapOut">
+    <wsdl:part name="parameters" element="tns:CardActiveResponse" />
+  </wsdl:message>
+  <wsdl:message name="ValidateMobileAndActiveCardSoapIn">
+    <wsdl:part name="parameters" element="tns:ValidateMobileAndActiveCard" />
+  </wsdl:message>
+  <wsdl:message name="ValidateMobileAndActiveCardSoapOut">
+    <wsdl:part name="parameters" element="tns:ValidateMobileAndActiveCardResponse" />
+  </wsdl:message>
+  <wsdl:portType name="CardServicesSoap">
+    <wsdl:operation name="CardLogin">
+      <wsdl:input message="tns:CardLoginSoapIn" />
+      <wsdl:output message="tns:CardLoginSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="PayLogin">
+      <wsdl:input message="tns:PayLoginSoapIn" />
+      <wsdl:output message="tns:PayLoginSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="Consume">
+      <wsdl:input message="tns:ConsumeSoapIn" />
+      <wsdl:output message="tns:ConsumeSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ConsumeCancel">
+      <wsdl:input message="tns:ConsumeCancelSoapIn" />
+      <wsdl:output message="tns:ConsumeCancelSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="Delivery">
+      <wsdl:input message="tns:DeliverySoapIn" />
+      <wsdl:output message="tns:DeliverySoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="DeliveryList">
+      <wsdl:input message="tns:DeliveryListSoapIn" />
+      <wsdl:output message="tns:DeliveryListSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetAllCardType">
+      <wsdl:input message="tns:GetAllCardTypeSoapIn" />
+      <wsdl:output message="tns:GetAllCardTypeSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetCardType">
+      <wsdl:input message="tns:GetCardTypeSoapIn" />
+      <wsdl:output message="tns:GetCardTypeSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetPayRecord">
+      <wsdl:input message="tns:GetPayRecordSoapIn" />
+      <wsdl:output message="tns:GetPayRecordSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetPayByUserData">
+      <wsdl:input message="tns:GetPayByUserDataSoapIn" />
+      <wsdl:output message="tns:GetPayByUserDataSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetGoodsRecord">
+      <wsdl:input message="tns:GetGoodsRecordSoapIn" />
+      <wsdl:output message="tns:GetGoodsRecordSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetCardTree">
+      <wsdl:input message="tns:GetCardTreeSoapIn" />
+      <wsdl:output message="tns:GetCardTreeSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetTypeTree">
+      <wsdl:input message="tns:GetTypeTreeSoapIn" />
+      <wsdl:output message="tns:GetTypeTreeSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetTopicGiftCardList">
+      <wsdl:input message="tns:GetTopicGiftCardListSoapIn" />
+      <wsdl:output message="tns:GetTopicGiftCardListSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="PayActive">
+      <wsdl:input message="tns:PayActiveSoapIn" />
+      <wsdl:output message="tns:PayActiveSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetCardSendLogByCardNo">
+      <wsdl:input message="tns:GetCardSendLogByCardNoSoapIn" />
+      <wsdl:output message="tns:GetCardSendLogByCardNoSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetActiveCodeByRelatedId">
+      <wsdl:input message="tns:GetActiveCodeByRelatedIdSoapIn" />
+      <wsdl:output message="tns:GetActiveCodeByRelatedIdSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetMobileByRelatedId">
+      <wsdl:input message="tns:GetMobileByRelatedIdSoapIn" />
+      <wsdl:output message="tns:GetMobileByRelatedIdSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="CardActive">
+      <wsdl:input message="tns:CardActiveSoapIn" />
+      <wsdl:output message="tns:CardActiveSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ValidateMobileAndActiveCard">
+      <wsdl:input message="tns:ValidateMobileAndActiveCardSoapIn" />
+      <wsdl:output message="tns:ValidateMobileAndActiveCardSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="CardServicesSoap" type="tns:CardServicesSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="CardLogin">
+      <soap:operation soapAction="http://UniCard.uni2uni.com/CardLogin" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="PayLogin">
+      <soap:operation soapAction="http://UniCard.uni2uni.com/PayLogin" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Consume">
+      <soap:operation soapAction="http://UniCard.uni2uni.com/Consume" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ConsumeCancel">
+      <soap:operation soapAction="http://UniCard.uni2uni.com/ConsumeCancel" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Delivery">
+      <soap:operation soapAction="http://UniCard.uni2uni.com/Delivery" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DeliveryList">
+      <soap:operation soapAction="http://UniCard.uni2uni.com/DeliveryList" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetAllCardType">
+      <soap:operation soapAction="http://UniCard.uni2uni.com/GetAllCardType" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetCardType">
+      <soap:operation soapAction="http://UniCard.uni2uni.com/GetCardType" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetPayRecord">
+      <soap:operation soapAction="http://UniCard.uni2uni.com/GetPayRecord" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetPayByUserData">
+      <soap:operation soapAction="http://UniCard.uni2uni.com/GetPayByUserData" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetGoodsRecord">
+      <soap:operation soapAction="http://UniCard.uni2uni.com/GetGoodsRecord" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetCardTree">
+      <soap:operation soapAction="http://UniCard.uni2uni.com/GetCardTree" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetTypeTree">
+      <soap:operation soapAction="http://UniCard.uni2uni.com/GetTypeTree" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetTopicGiftCardList">
+      <soap:operation soapAction="http://UniCard.uni2uni.com/GetTopicGiftCardList" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="PayActive">
+      <soap:operation soapAction="http://UniCard.uni2uni.com/PayActive" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetCardSendLogByCardNo">
+      <soap:operation soapAction="http://UniCard.uni2uni.com/GetCardSendLogByCardNo" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetActiveCodeByRelatedId">
+      <soap:operation soapAction="http://UniCard.uni2uni.com/GetActiveCodeByRelatedId" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetMobileByRelatedId">
+      <soap:operation soapAction="http://UniCard.uni2uni.com/GetMobileByRelatedId" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CardActive">
+      <soap:operation soapAction="http://UniCard.uni2uni.com/CardActive" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ValidateMobileAndActiveCard">
+      <soap:operation soapAction="http://UniCard.uni2uni.com/ValidateMobileAndActiveCard" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="CardServicesSoap12" type="tns:CardServicesSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="CardLogin">
+      <soap12:operation soapAction="http://UniCard.uni2uni.com/CardLogin" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="PayLogin">
+      <soap12:operation soapAction="http://UniCard.uni2uni.com/PayLogin" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Consume">
+      <soap12:operation soapAction="http://UniCard.uni2uni.com/Consume" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ConsumeCancel">
+      <soap12:operation soapAction="http://UniCard.uni2uni.com/ConsumeCancel" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Delivery">
+      <soap12:operation soapAction="http://UniCard.uni2uni.com/Delivery" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DeliveryList">
+      <soap12:operation soapAction="http://UniCard.uni2uni.com/DeliveryList" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetAllCardType">
+      <soap12:operation soapAction="http://UniCard.uni2uni.com/GetAllCardType" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetCardType">
+      <soap12:operation soapAction="http://UniCard.uni2uni.com/GetCardType" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetPayRecord">
+      <soap12:operation soapAction="http://UniCard.uni2uni.com/GetPayRecord" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetPayByUserData">
+      <soap12:operation soapAction="http://UniCard.uni2uni.com/GetPayByUserData" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetGoodsRecord">
+      <soap12:operation soapAction="http://UniCard.uni2uni.com/GetGoodsRecord" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetCardTree">
+      <soap12:operation soapAction="http://UniCard.uni2uni.com/GetCardTree" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetTypeTree">
+      <soap12:operation soapAction="http://UniCard.uni2uni.com/GetTypeTree" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetTopicGiftCardList">
+      <soap12:operation soapAction="http://UniCard.uni2uni.com/GetTopicGiftCardList" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="PayActive">
+      <soap12:operation soapAction="http://UniCard.uni2uni.com/PayActive" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetCardSendLogByCardNo">
+      <soap12:operation soapAction="http://UniCard.uni2uni.com/GetCardSendLogByCardNo" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetActiveCodeByRelatedId">
+      <soap12:operation soapAction="http://UniCard.uni2uni.com/GetActiveCodeByRelatedId" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetMobileByRelatedId">
+      <soap12:operation soapAction="http://UniCard.uni2uni.com/GetMobileByRelatedId" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CardActive">
+      <soap12:operation soapAction="http://UniCard.uni2uni.com/CardActive" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ValidateMobileAndActiveCard">
+      <soap12:operation soapAction="http://UniCard.uni2uni.com/ValidateMobileAndActiveCard" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="CardServices">
+    <wsdl:port name="CardServicesSoap" binding="tns:CardServicesSoap">
+      <soap:address location="http://service.unicard.com/CardServices.asmx" />
+    </wsdl:port>
+    <wsdl:port name="CardServicesSoap12" binding="tns:CardServicesSoap12">
+      <soap12:address location="http://service.unicard.com/CardServices.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

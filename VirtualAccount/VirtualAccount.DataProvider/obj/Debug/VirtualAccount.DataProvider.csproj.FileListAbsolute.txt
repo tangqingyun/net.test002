@@ -1,0 +1,4 @@
+C:\Users\Administrator\Desktop\示例项目\VirtualAccount\VirtualAccount.DataProvider\bin\Debug\VirtualAccount.DataProvider.dll
+C:\Users\Administrator\Desktop\示例项目\VirtualAccount\VirtualAccount.DataProvider\bin\Debug\VirtualAccount.DataProvider.pdb
+C:\Users\Administrator\Desktop\示例项目\VirtualAccount\VirtualAccount.DataProvider\obj\Debug\VirtualAccount.DataProvider.dll
+C:\Users\Administrator\Desktop\示例项目\VirtualAccount\VirtualAccount.DataProvider\obj\Debug\VirtualAccount.DataProvider.pdb

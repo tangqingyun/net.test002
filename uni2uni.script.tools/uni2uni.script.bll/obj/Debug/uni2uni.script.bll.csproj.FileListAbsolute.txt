@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\示例项目\uni2uni.script.tools\uni2uni.script.bll\bin\Debug\uni2uni.script.bll.dll
+C:\Users\Administrator\Desktop\示例项目\uni2uni.script.tools\uni2uni.script.bll\bin\Debug\uni2uni.script.bll.pdb
+C:\Users\Administrator\Desktop\示例项目\uni2uni.script.tools\uni2uni.script.bll\obj\Debug\uni2uni.script.bll.dll
+C:\Users\Administrator\Desktop\示例项目\uni2uni.script.tools\uni2uni.script.bll\obj\Debug\uni2uni.script.bll.pdb
+C:\Users\Administrator\Desktop\示例项目\uni2uni.script.tools\uni2uni.script.bll\bin\Debug\uni2uni.script.dal.dll
+C:\Users\Administrator\Desktop\示例项目\uni2uni.script.tools\uni2uni.script.bll\bin\Debug\uni2uni.script.model.dll
+C:\Users\Administrator\Desktop\示例项目\uni2uni.script.tools\uni2uni.script.bll\bin\Debug\MSSQL.dll
+C:\Users\Administrator\Desktop\示例项目\uni2uni.script.tools\uni2uni.script.bll\bin\Debug\uni2uni.script.dal.pdb
+C:\Users\Administrator\Desktop\示例项目\uni2uni.script.tools\uni2uni.script.bll\bin\Debug\uni2uni.script.model.pdb
+C:\Users\Administrator\Desktop\示例项目\uni2uni.script.tools\uni2uni.script.bll\obj\Debug\uni2uni.script.bll.csprojResolveAssemblyReference.cache

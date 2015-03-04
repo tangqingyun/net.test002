@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\示例项目\TextQuartz.Net\TextQuartz.Topshelf\obj\Debug\TextQuartz.Topshelf.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\示例项目\TextQuartz.Net\TextQuartz.Topshelf\bin\Debug\TextQuartz.Topshelf.exe
+C:\Users\Administrator\Desktop\示例项目\TextQuartz.Net\TextQuartz.Topshelf\bin\Debug\TextQuartz.Topshelf.pdb
+C:\Users\Administrator\Desktop\示例项目\TextQuartz.Net\TextQuartz.Topshelf\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\示例项目\TextQuartz.Net\TextQuartz.Topshelf\bin\Debug\TextQuartz.Net.exe
+C:\Users\Administrator\Desktop\示例项目\TextQuartz.Net\TextQuartz.Topshelf\bin\Debug\Topshelf.dll
+C:\Users\Administrator\Desktop\示例项目\TextQuartz.Net\TextQuartz.Topshelf\bin\Debug\Quartz.dll
+C:\Users\Administrator\Desktop\示例项目\TextQuartz.Net\TextQuartz.Topshelf\bin\Debug\Common.Logging.dll
+C:\Users\Administrator\Desktop\示例项目\TextQuartz.Net\TextQuartz.Topshelf\bin\Debug\TextQuartz.Net.pdb
+C:\Users\Administrator\Desktop\示例项目\TextQuartz.Net\TextQuartz.Topshelf\bin\Debug\Topshelf.xml
+C:\Users\Administrator\Desktop\示例项目\TextQuartz.Net\TextQuartz.Topshelf\bin\Debug\Quartz.pdb
+C:\Users\Administrator\Desktop\示例项目\TextQuartz.Net\TextQuartz.Topshelf\bin\Debug\Quartz.xml
+C:\Users\Administrator\Desktop\示例项目\TextQuartz.Net\TextQuartz.Topshelf\obj\Debug\TextQuartz.Topshelf.exe
+C:\Users\Administrator\Desktop\示例项目\TextQuartz.Net\TextQuartz.Topshelf\obj\Debug\TextQuartz.Topshelf.pdb
+C:\Users\Administrator\Desktop\示例项目\TextQuartz.Net\TextQuartz.Topshelf\bin\Debug\quartz_jobs.xml
+C:\Users\Administrator\Desktop\示例项目\TextQuartz.Net\TextQuartz.Topshelf\bin\Debug\quartz.config

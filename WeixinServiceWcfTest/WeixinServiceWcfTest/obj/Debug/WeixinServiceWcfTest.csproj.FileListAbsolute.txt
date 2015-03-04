@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\示例项目\WeixinServiceWcfTest\WeixinServiceWcfTest\bin\Debug\WeixinServiceWcfTest.exe.config
+C:\Users\Administrator\Desktop\示例项目\WeixinServiceWcfTest\WeixinServiceWcfTest\bin\Debug\WeixinServiceWcfTest.exe
+C:\Users\Administrator\Desktop\示例项目\WeixinServiceWcfTest\WeixinServiceWcfTest\bin\Debug\WeixinServiceWcfTest.pdb
+C:\Users\Administrator\Desktop\示例项目\WeixinServiceWcfTest\WeixinServiceWcfTest\obj\Debug\WeixinServiceWcfTest.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\示例项目\WeixinServiceWcfTest\WeixinServiceWcfTest\obj\Debug\WeixinServiceWcfTest.exe
+C:\Users\Administrator\Desktop\示例项目\WeixinServiceWcfTest\WeixinServiceWcfTest\obj\Debug\WeixinServiceWcfTest.pdb

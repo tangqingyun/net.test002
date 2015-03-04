@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\示例项目\TestSocket\TestSocket\bin\Debug\TestSocket.exe
+C:\Users\Administrator\Desktop\示例项目\TestSocket\TestSocket\bin\Debug\TestSocket.pdb
+C:\Users\Administrator\Desktop\示例项目\TestSocket\TestSocket\obj\Debug\TestSocket.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\示例项目\TestSocket\TestSocket\obj\Debug\TestSocket.exe
+C:\Users\Administrator\Desktop\示例项目\TestSocket\TestSocket\obj\Debug\TestSocket.pdb

@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uni2uni.script.dal", "uni2uni.script.dal\uni2uni.script.dal.csproj", "{3CF3D7A9-8B46-4E47-A207-C14B021DB322}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uni2uni.script.bll", "uni2uni.script.bll\uni2uni.script.bll.csproj", "{226E019B-0F0A-419A-8913-23DC3EA04A86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uni2uni.script.model", "uni2uni.script.model\uni2uni.script.model.csproj", "{FFD75124-0972-43A0-AEC7-0490231ECCE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uni2uni.script.main", "uni2uni.script.main\uni2uni.script.main.csproj", "{FAC036ED-4F66-467B-BAAD-920F986143A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CF3D7A9-8B46-4E47-A207-C14B021DB322}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CF3D7A9-8B46-4E47-A207-C14B021DB322}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CF3D7A9-8B46-4E47-A207-C14B021DB322}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CF3D7A9-8B46-4E47-A207-C14B021DB322}.Release|Any CPU.Build.0 = Release|Any CPU
+		{226E019B-0F0A-419A-8913-23DC3EA04A86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{226E019B-0F0A-419A-8913-23DC3EA04A86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{226E019B-0F0A-419A-8913-23DC3EA04A86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{226E019B-0F0A-419A-8913-23DC3EA04A86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFD75124-0972-43A0-AEC7-0490231ECCE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFD75124-0972-43A0-AEC7-0490231ECCE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFD75124-0972-43A0-AEC7-0490231ECCE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFD75124-0972-43A0-AEC7-0490231ECCE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAC036ED-4F66-467B-BAAD-920F986143A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAC036ED-4F66-467B-BAAD-920F986143A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAC036ED-4F66-467B-BAAD-920F986143A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAC036ED-4F66-467B-BAAD-920F986143A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

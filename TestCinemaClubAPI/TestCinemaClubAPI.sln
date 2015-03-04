@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCinemaClubAPI", "TestCinemaClubAPI\TestCinemaClubAPI.csproj", "{E27BAAB0-4E36-445A-8E56-243A640BF093}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCinemaWCF", "TestCinemaWCF\TestCinemaWCF.csproj", "{ACD273D4-89C0-4E98-8A9D-48B155212E82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E27BAAB0-4E36-445A-8E56-243A640BF093}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E27BAAB0-4E36-445A-8E56-243A640BF093}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E27BAAB0-4E36-445A-8E56-243A640BF093}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E27BAAB0-4E36-445A-8E56-243A640BF093}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACD273D4-89C0-4E98-8A9D-48B155212E82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACD273D4-89C0-4E98-8A9D-48B155212E82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACD273D4-89C0-4E98-8A9D-48B155212E82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACD273D4-89C0-4E98-8A9D-48B155212E82}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

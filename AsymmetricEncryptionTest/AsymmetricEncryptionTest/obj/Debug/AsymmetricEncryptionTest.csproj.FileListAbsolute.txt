@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\示例项目\AsymmetricEncryptionTest\AsymmetricEncryptionTest\bin\Debug\AsymmetricEncryptionTest.exe.config
+C:\Users\Administrator\Desktop\示例项目\AsymmetricEncryptionTest\AsymmetricEncryptionTest\obj\Debug\AsymmetricEncryptionTest.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\示例项目\AsymmetricEncryptionTest\AsymmetricEncryptionTest\bin\Debug\AsymmetricEncryptionTest.exe
+C:\Users\Administrator\Desktop\示例项目\AsymmetricEncryptionTest\AsymmetricEncryptionTest\bin\Debug\AsymmetricEncryptionTest.pdb
+C:\Users\Administrator\Desktop\示例项目\AsymmetricEncryptionTest\AsymmetricEncryptionTest\obj\Debug\AsymmetricEncryptionTest.exe
+C:\Users\Administrator\Desktop\示例项目\AsymmetricEncryptionTest\AsymmetricEncryptionTest\obj\Debug\AsymmetricEncryptionTest.pdb

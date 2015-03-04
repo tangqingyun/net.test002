@@ -1,0 +1,74 @@
+﻿正在安装程序集“C:\Users\Administrator\Desktop\示例项目\TextQuartz.Net\TextQuartz.Net\bin\Debug\TextQuartz.Net.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\示例项目\TextQuartz.Net\TextQuartz.Net\bin\Debug\TextQuartz.Net.exe
+   logfile = C:\Users\Administrator\Desktop\示例项目\TextQuartz.Net\TextQuartz.Net\bin\Debug\TextQuartz.Net.InstallLog
+没有 RunInstallerAttribute.Yes 的公共安装程序。在 C:\Users\Administrator\Desktop\示例项目\TextQuartz.Net\TextQuartz.Net\bin\Debug\TextQuartz.Net.exe 程序集中应该可以找到“Yes”特性。
+正在提交程序集“C:\Users\Administrator\Desktop\示例项目\TextQuartz.Net\TextQuartz.Net\bin\Debug\TextQuartz.Net.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\示例项目\TextQuartz.Net\TextQuartz.Net\bin\Debug\TextQuartz.Net.exe
+   logfile = C:\Users\Administrator\Desktop\示例项目\TextQuartz.Net\TextQuartz.Net\bin\Debug\TextQuartz.Net.InstallLog
+没有 RunInstallerAttribute.Yes 的公共安装程序。在 C:\Users\Administrator\Desktop\示例项目\TextQuartz.Net\TextQuartz.Net\bin\Debug\TextQuartz.Net.exe 程序集中应该可以找到“Yes”特性。
+没有安装程序，因此移除 InstallState 文件。
+正在卸载程序集“C:\Users\Administrator\Desktop\示例项目\TextQuartz.Net\TextQuartz.Net\bin\Debug\TextQuartz.Net.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\示例项目\TextQuartz.Net\TextQuartz.Net\bin\Debug\TextQuartz.Net.exe
+   logfile = C:\Users\Administrator\Desktop\示例项目\TextQuartz.Net\TextQuartz.Net\bin\Debug\TextQuartz.Net.InstallLog
+没有 RunInstallerAttribute.Yes 的公共安装程序。在 C:\Users\Administrator\Desktop\示例项目\TextQuartz.Net\TextQuartz.Net\bin\Debug\TextQuartz.Net.exe 程序集中应该可以找到“Yes”特性。
+正在安装程序集“C:\Users\Administrator\Desktop\示例项目\TextQuartz.Net\TextQuartz.Net\bin\Debug\TextQuartz.Net.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\Users\Administrator\Desktop\示例项目\TextQuartz.Net\TextQuartz.Net\bin\Debug\TextQuartz.Net.InstallLog
+   assemblypath = C:\Users\Administrator\Desktop\示例项目\TextQuartz.Net\TextQuartz.Net\bin\Debug\TextQuartz.Net.exe
+正在安装服务 MyQuartzService...
+已成功安装服务 MyQuartzService。
+正在日志 Application 中创建 EventLog 源 MyQuartzService...
+正在提交程序集“C:\Users\Administrator\Desktop\示例项目\TextQuartz.Net\TextQuartz.Net\bin\Debug\TextQuartz.Net.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\Users\Administrator\Desktop\示例项目\TextQuartz.Net\TextQuartz.Net\bin\Debug\TextQuartz.Net.InstallLog
+   assemblypath = C:\Users\Administrator\Desktop\示例项目\TextQuartz.Net\TextQuartz.Net\bin\Debug\TextQuartz.Net.exe
+正在卸载程序集“C:\Users\Administrator\Desktop\示例项目\TextQuartz.Net\TextQuartz.Net\bin\Debug\TextQuartz.Net.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\Users\Administrator\Desktop\示例项目\TextQuartz.Net\TextQuartz.Net\bin\Debug\TextQuartz.Net.InstallLog
+   assemblypath = C:\Users\Administrator\Desktop\示例项目\TextQuartz.Net\TextQuartz.Net\bin\Debug\TextQuartz.Net.exe
+正在移除 EventLog 源 MyQuartzService。
+正在从系统中移除服务 MyQuartzService...
+已成功地从系统中移除服务 MyQuartzService。
+正在安装程序集“C:\Users\Administrator\Desktop\示例项目\TextQuartz.Net\TextQuartz.Net\bin\Debug\TextQuartz.Net.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\Users\Administrator\Desktop\示例项目\TextQuartz.Net\TextQuartz.Net\bin\Debug\TextQuartz.Net.InstallLog
+   assemblypath = C:\Users\Administrator\Desktop\示例项目\TextQuartz.Net\TextQuartz.Net\bin\Debug\TextQuartz.Net.exe
+正在安装服务 MyQuartzService...
+已成功安装服务 MyQuartzService。
+正在日志 Application 中创建 EventLog 源 MyQuartzService...
+正在提交程序集“C:\Users\Administrator\Desktop\示例项目\TextQuartz.Net\TextQuartz.Net\bin\Debug\TextQuartz.Net.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\Users\Administrator\Desktop\示例项目\TextQuartz.Net\TextQuartz.Net\bin\Debug\TextQuartz.Net.InstallLog
+   assemblypath = C:\Users\Administrator\Desktop\示例项目\TextQuartz.Net\TextQuartz.Net\bin\Debug\TextQuartz.Net.exe
+正在卸载程序集“C:\Users\Administrator\Desktop\示例项目\TextQuartz.Net\TextQuartz.Net\bin\Debug\TextQuartz.Net.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\Users\Administrator\Desktop\示例项目\TextQuartz.Net\TextQuartz.Net\bin\Debug\TextQuartz.Net.InstallLog
+   assemblypath = C:\Users\Administrator\Desktop\示例项目\TextQuartz.Net\TextQuartz.Net\bin\Debug\TextQuartz.Net.exe
+正在移除 EventLog 源 MyQuartzService。
+正在从系统中移除服务 MyQuartzService...
+已成功地从系统中移除服务 MyQuartzService。
+正在安装程序集“C:\Users\Administrator\Desktop\示例项目\TextQuartz.Net\TextQuartz.Net\bin\Debug\TextQuartz.Net.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\Users\Administrator\Desktop\示例项目\TextQuartz.Net\TextQuartz.Net\bin\Debug\TextQuartz.Net.InstallLog
+   assemblypath = C:\Users\Administrator\Desktop\示例项目\TextQuartz.Net\TextQuartz.Net\bin\Debug\TextQuartz.Net.exe
+正在安装服务 MyQuartzService...
+已成功安装服务 MyQuartzService。
+正在日志 Application 中创建 EventLog 源 MyQuartzService...
+正在提交程序集“C:\Users\Administrator\Desktop\示例项目\TextQuartz.Net\TextQuartz.Net\bin\Debug\TextQuartz.Net.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\Users\Administrator\Desktop\示例项目\TextQuartz.Net\TextQuartz.Net\bin\Debug\TextQuartz.Net.InstallLog
+   assemblypath = C:\Users\Administrator\Desktop\示例项目\TextQuartz.Net\TextQuartz.Net\bin\Debug\TextQuartz.Net.exe

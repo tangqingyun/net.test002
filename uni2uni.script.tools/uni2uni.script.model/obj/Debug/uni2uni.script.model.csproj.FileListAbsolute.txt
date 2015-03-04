@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\示例项目\uni2uni.script.tools\uni2uni.script.model\bin\Debug\uni2uni.script.model.dll
+C:\Users\Administrator\Desktop\示例项目\uni2uni.script.tools\uni2uni.script.model\bin\Debug\uni2uni.script.model.pdb
+C:\Users\Administrator\Desktop\示例项目\uni2uni.script.tools\uni2uni.script.model\obj\Debug\uni2uni.script.model.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\示例项目\uni2uni.script.tools\uni2uni.script.model\obj\Debug\uni2uni.script.model.dll
+C:\Users\Administrator\Desktop\示例项目\uni2uni.script.tools\uni2uni.script.model\obj\Debug\uni2uni.script.model.pdb

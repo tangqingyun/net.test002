@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\示例项目\IQueryCombination\IQueryCombination\obj\Debug\IQueryCombination.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\示例项目\IQueryCombination\IQueryCombination\bin\Debug\IQueryCombination.exe
+C:\Users\Administrator\Desktop\示例项目\IQueryCombination\IQueryCombination\bin\Debug\IQueryCombination.pdb
+C:\Users\Administrator\Desktop\示例项目\IQueryCombination\IQueryCombination\obj\Debug\IQueryCombination.exe
+C:\Users\Administrator\Desktop\示例项目\IQueryCombination\IQueryCombination\obj\Debug\IQueryCombination.pdb

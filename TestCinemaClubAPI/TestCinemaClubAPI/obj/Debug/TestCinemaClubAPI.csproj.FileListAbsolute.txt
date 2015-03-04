@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\示例项目\TestCinemaClubAPI\TestCinemaClubAPI\bin\Debug\TestCinemaClubAPI.exe.config
+C:\Users\Administrator\Desktop\示例项目\TestCinemaClubAPI\TestCinemaClubAPI\bin\Debug\TestCinemaClubAPI.exe
+C:\Users\Administrator\Desktop\示例项目\TestCinemaClubAPI\TestCinemaClubAPI\bin\Debug\TestCinemaClubAPI.pdb
+C:\Users\Administrator\Desktop\示例项目\TestCinemaClubAPI\TestCinemaClubAPI\obj\Debug\TestCinemaClubAPI.exe
+C:\Users\Administrator\Desktop\示例项目\TestCinemaClubAPI\TestCinemaClubAPI\obj\Debug\TestCinemaClubAPI.pdb

@@ -1,0 +1,4 @@
+C:\Users\Administrator\Desktop\SpringDotNet\Spring.BllManager\bin\Debug\Spring.BllManager.dll
+C:\Users\Administrator\Desktop\SpringDotNet\Spring.BllManager\bin\Debug\Spring.BllManager.pdb
+C:\Users\Administrator\Desktop\SpringDotNet\Spring.BllManager\obj\Debug\Spring.BllManager.dll
+C:\Users\Administrator\Desktop\SpringDotNet\Spring.BllManager\obj\Debug\Spring.BllManager.pdb

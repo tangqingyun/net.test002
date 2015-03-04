@@ -1,0 +1,103 @@
+﻿img {
+    border: 0px;
+    padding: 0px;
+    margin: 0px;
+}
+body {
+margin:0px;
+}
+
+.easyui-tabs {
+
+}
+ .ftable tr td {
+        padding:4px 0px; border-bottom:1px dashed #bcbcbc;}
+.btext span {
+margin-right:15px;}
+
+#north {
+    height:50px;
+    background:#3c86c5;
+    /*background:url("../Images/admin_top_bg.gif") left center repeat-x;*/
+    margin-bottom:3px;
+}
+
+#north #lspan {
+display:inline-block;
+}
+
+#north #rspan {
+display:inline-block; float:right;
+height:50px;line-height:50px; color:white;
+margin-right:5px;
+}
+
+#north #rspan a {
+    color:white; text-decoration:none;
+}
+
+
+table {
+  width:100%;height:auto;
+}
+
+ul {
+margin:0px;padding:0px;
+}
+li {
+list-style:none;
+}
+ #west_pannel {
+margin:0px;padding:0px;
+}
+#west_pannel ul {
+padding:0px;margin:0px;margin:5px 0px;
+}
+#west_pannel ul li {
+    list-style:none; 
+    text-align:left;text-indent:30px;
+    margin-top:8px;
+    background:url("../Easyui/themes/icons/arr4.gif") 20px 2px no-repeat;
+}
+#west_pannel ul li a{
+    text-decoration:none; color:black; font-size:13px;
+}
+
+body {
+    font-size: 13px;
+}
+
+.opv img {
+    width:13px;
+}
+
+#tt,.tt {
+    border: 1px solid #95b8e7;
+    border-collapse: collapse;
+    width:100%;height:auto;
+}
+
+#tt td,.tt td {
+    padding: 5px;
+    border: 1px dashed #ccc;
+}
+
+#tt .header td,.tt .header td {
+    background: #f4f4f4;
+}
+
+.pager td{
+ text-align:center;
+}
+
+ #AspNetPager {
+    padding:5px 0px;
+}
+
+.hbutton {
+padding:5px 2px;
+text-align:right;
+}
+
+.atable  td{
+padding:4px 0px; border-bottom:1px dashed #bcbcbc;}

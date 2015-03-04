@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\SpringDotNet\Spring.UnitTest\bin\Debug\Spring.UnitTest.dll
+C:\Users\Administrator\Desktop\SpringDotNet\Spring.UnitTest\bin\Debug\Spring.UnitTest.pdb
+C:\Users\Administrator\Desktop\SpringDotNet\Spring.UnitTest\obj\Debug\Spring.UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\SpringDotNet\Spring.UnitTest\obj\Debug\Spring.UnitTest.dll
+C:\Users\Administrator\Desktop\SpringDotNet\Spring.UnitTest\obj\Debug\Spring.UnitTest.pdb

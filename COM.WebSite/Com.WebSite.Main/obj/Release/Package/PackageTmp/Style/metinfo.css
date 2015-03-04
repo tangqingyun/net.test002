@@ -1,0 +1,291 @@
+HTML {
+	FONT: 12px/1.8 "Microsoft YaHei", Tahoma, Verdana, "Simsun"; BACKGROUND: #ddd; COLOR: #333; -webkit-text-size-adjust: none
+}
+
+
+
+BODY {
+	FONT: 12px/1.8 "Microsoft YaHei", Tahoma, Verdana, "Simsun"; BACKGROUND: #ddd; COLOR: #333; -webkit-text-size-adjust: none
+}
+
+
+
+A {
+	COLOR: #333; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #1c57c4; TEXT-DECORATION: none
+}
+.inner {
+	POSITION: relative; MARGIN: 0px auto; WIDTH: 980px
+}
+
+#body { width:70%;margin:0 auto; background:white; }
+#header {
+	 width:100%; background:#f1f1f1;float:left;
+}
+
+#hd_top {
+    width:70%;
+    margin:0 auto;height:60px;line-height:60px;
+}
+
+#hd_top p{
+    float:left;
+}
+#hd_top #logo {
+    font-size:25px;color:#0f2596;font-weight:bold;
+    }
+#hd_top #rgo {
+     float:right;padding-right:10px;
+    }
+
+
+#nav{ 
+     background:url("../Images/nav.jpg");float:left;width:100%; height:36px;line-height:36px;
+}
+#nav ul {
+    /*float:left;*/
+    width:100%;
+    margin:0 auto;
+    margin-left:15%;
+}
+
+#nav ul li{ 
+    float:left;
+    list-style:none;
+    width:115px; text-align:center;
+}
+    #nav ul li a{ color:white;  padding:5px;font-weight:bold;font-size:14px;
+    }
+.met_flash {
+	 FONT-SIZE: 0px; OVERFLOW: hidden;padding-top:3px;
+}
+.met_flash UL {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+.aboutus {
+	MARGIN-TOP: 10px; WIDTH: 675px; FLOAT: left
+}
+.case {
+	MARGIN-TOP: 10px; WIDTH: 290px; FLOAT: right; OVERFLOW: hidden
+}
+.style-1 H3.title {
+border-bottom:1px solid #007bc8;float:left;width:98%;}
+.style-1 H3.title SPAN {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 32px; PADDING-LEFT: 25px; PADDING-RIGHT: 25px; BACKGROUND: url(../Images/dt-5.gif) repeat-x; FLOAT: left; HEIGHT: 32px; COLOR: #fff; FONT-SIZE: 14px; FONT-WEIGHT: normal; PADDING-TOP: 0px
+}
+.style-1 H3.title A.more {
+	LINE-HEIGHT: 1000px; MARGIN: 10px 10px 0px 0px; WIDTH: 39px; BACKGROUND: url(../Images/more.gif); FLOAT: right; HEIGHT: 11px; OVERFLOW: hidden
+}
+.style-1 .active {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; BACKGROUND: #fff; PADDING-TOP: 10px
+}
+.style-2 H3.title {
+	POSITION: relative; LINE-HEIGHT: 32px; PADDING-LEFT: 15px; BACKGROUND: url(../Images/dt-6.gif) repeat-x; HEIGHT: 32px; COLOR: #fff; FONT-SIZE: 14px; FONT-WEIGHT: normal
+}
+.style-2 H3.title A.more {
+	POSITION: absolute; COLOR: #fff; FONT-SIZE: 12px; TOP: 0px; RIGHT: 10px
+}
+.style-2 .active {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; BACKGROUND: #fff; PADDING-TOP: 10px
+}
+.style-2 DL.ind {
+	ZOOM: 1; CLEAR: both
+}
+.style-2 DL.ind DT {
+	BORDER-BOTTOM: #ccc 1px dotted; PADDING-BOTTOM: 10px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; ZOOM: 1; DISPLAY: inline; FLOAT: left; PADDING-TOP: 10px
+}
+.style-2 DL.ind DT A {
+	MARGIN-LEFT: 5px
+}
+.style-2 DL.ind DD {
+	BORDER-BOTTOM: #ccc 1px dotted; PADDING-BOTTOM: 10px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: inline; FLOAT: right; OVERFLOW: hidden; PADDING-TOP: 10px
+}
+.style-2 DL.ind DD H4 {
+	MARGIN-LEFT: 10px
+}
+.style-2 DL.ind DD P.desc {
+	FONT-STYLE: italic; COLOR: #666; MARGIN-LEFT: 10px
+}
+
+#newlock {
+    border:1px solid red; float:left;width:100%;
+}
+.index-news {
+	MARGIN-TOP: 15px; WIDTH:49%; FLOAT: left;
+}
+.listel LI {
+	LINE-HEIGHT:30px; MARGIN: 0px 5px; PADDING-LEFT: 13px; BACKGROUND: url(../Images/dt-1.gif) no-repeat left 12px; HEIGHT: 30px; OVERFLOW: hidden
+}
+.service LI {
+    LINE-HEIGHT:27px;HEIGHT: 27px; 
+}
+.listel LI A {
+	ZOOM: 1; MARGIN-RIGHT: 5px
+}
+.listel LI SPAN {
+	FLOAT: right; COLOR: #666
+}
+.index-conts {
+	MARGIN-TOP: 15px;  FLOAT: right
+}
+.index-product {
+	PADDING-TOP: 15px
+}
+.index-product .profld {
+	POSITION: relative; MARGIN: 0px; OVERFLOW: hidden
+}
+.index-product H3 SPAN {
+	FLOAT: left
+}
+.index-product OL {
+	POSITION: absolute; WIDTH: 2012em
+}
+.index-product OL LI {
+	TEXT-ALIGN: center; FLOAT: left
+}
+.index-product OL LI A.img {
+	TEXT-ALIGN: center; DISPLAY: block; FONT-SIZE: 0px
+}
+.index-product OL LI A.img IMG {
+	BORDER-BOTTOM: #d6d6d6 1px solid; BORDER-LEFT: #d6d6d6 1px solid; MARGIN: auto; BORDER-TOP: #d6d6d6 1px solid; BORDER-RIGHT: #d6d6d6 1px solid
+}
+.index-product OL LI H3 {
+	LINE-HEIGHT: 20px; MARGIN-TOP: 5px; HEIGHT: 20px; OVERFLOW: hidden; FONT-WEIGHT: normal
+}
+.index-product .flip {
+	MARGIN: 8px 15px 0px; FLOAT: left; HEIGHT: 20px; OVERFLOW: hidden
+}
+* HTML .index-product .flip {
+	WIDTH: 300px
+}
+* + HTML .index-product .flip {
+	WIDTH: 300px
+}
+.index-product .next {
+	WIDTH: 18px; DISPLAY: block; BACKGROUND: url(../Images/neu.gif) no-repeat; FLOAT: left; HEIGHT: 18px; OVERFLOW: hidden
+}
+.index-product .prev {
+	WIDTH: 18px; DISPLAY: block; BACKGROUND: url(../Images/neu.gif) no-repeat; FLOAT: left; HEIGHT: 18px; OVERFLOW: hidden
+}
+.index-product .next {
+	BACKGROUND-POSITION: -17px 0px
+}
+.index-product .next:hover {
+	BACKGROUND-POSITION: -57px 0px
+}
+.index-product .prev {
+	BACKGROUND-POSITION: -40px 0px
+}
+.index-product .prev:hover {
+	BACKGROUND-POSITION: 0px 0px
+}
+#trigger {
+	POSITION: relative; MARGIN-TOP: 0px; BOTTOM: 8px; ZOOM: 1; FLOAT: left; MARGIN-RIGHT: 5px
+}
+#trigger A {
+	WIDTH: 8px; DISPLAY: inline-block; BACKGROUND: url(../Images/neu.gif) no-repeat -78px -10px; HEIGHT: 8px; FONT-SIZE: 0px; OVERFLOW: hidden; MARGIN-RIGHT: 5px
+}
+#trigger A.current {
+	BACKGROUND-POSITION: -78px 0px
+}
+#tabs-nav {
+	TEXT-ALIGN: center; FLOAT: left; MARGIN-LEFT: 15px
+}
+#tabs-nav LI {
+	POSITION: relative; MARGIN: 0px 4px; ZOOM: 1; DISPLAY: inline-block
+}
+#tabs-nav LI A {
+	TEXT-INDENT: -9999px; WIDTH: 8px; DISPLAY: block; BACKGROUND: #9df0f5; HEIGHT: 8px; OVERFLOW: hidden; CURSOR: pointer; -webkit-border-radius: 20px; -moz-border-radius: 20px; border-radius: 20px; -o-border-radius: 20px
+}
+#tabs-nav LI A:hover {
+	BACKGROUND: #fff
+}
+#tabs-nav LI A.flex-active {
+	BACKGROUND: #fff; CURSOR: default
+}
+.index-links {
+	POSITION: relative; PADDING-BOTTOM: 10px; MARGIN-TOP: 15px; PADDING-LEFT: 15px; PADDING-RIGHT: 15px; BACKGROUND: #fff; PADDING-TOP: 5px
+}
+.index-links H3 {
+	BORDER-BOTTOM: #ccc 1px dotted; POSITION: relative; LINE-HEIGHT: 32px; PADDING-LEFT: 20px; MARGIN-BOTTOM: 10px; BACKGROUND: url(../Images/dt-2.gif) no-repeat left center; HEIGHT: 32px; FONT-SIZE: 14px; FONT-WEIGHT: normal
+}
+.index-links H3 A.more {
+	POSITION: absolute; COLOR: #666; FONT-SIZE: 12px; TOP: 0px; RIGHT: 10px
+}
+.index-links UL {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+.index-links .img {
+	MARGIN-BOTTOM: 3px
+}
+.index-links .img LI {
+	LIST-STYLE-TYPE: none; PADDING-RIGHT: 5px; DISPLAY: inline; LIST-STYLE-IMAGE: none
+}
+.index-links .img IMG {
+	WIDTH: 88px; HEIGHT: 31px
+}
+.index-links .txt {
+	ZOOM: 1
+}
+.index-links .txt LI {
+	LINE-HEIGHT: 20px; LIST-STYLE-TYPE: none; WIDTH: 88px; FLOAT: left; HEIGHT: 20px; OVERFLOW: hidden; LIST-STYLE-IMAGE: none; MARGIN-RIGHT: 5px
+}
+.foot-nav {
+	TEXT-ALIGN: center; LINE-HEIGHT: 25px; MARGIN-TOP: 10px; HEIGHT: 25px
+}
+.foot-nav SPAN {
+	MARGIN: 0px 8px; COLOR: #888; FONT-SIZE: 10px
+}
+.foot-text {
+	TEXT-ALIGN: center; PADDING-BOTTOM: 5px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+.sidebar {
+	MARGIN-TOP: 15px
+}
+.sidebar .sb_nav {
+	WIDTH: 210px; FLOAT: left
+}
+.sidebar .sb_nav H3.title {
+	BORDER-BOTTOM: #cecece 1px solid; TEXT-ALIGN: left; PADDING-BOTTOM: 0px; LINE-HEIGHT: 33px; PADDING-LEFT: 15px; PADDING-RIGHT: 15px; BACKGROUND: url(../Images/dt-6.gif) repeat-x; HEIGHT: 33px; COLOR: #fff; FONT-SIZE: 14px; PADDING-TOP: 0px
+}
+.sidebar .sb_nav H3.line {
+	MARGIN-TOP: 15px
+}
+.sidebar .sb_nav .active {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 15px; PADDING-RIGHT: 15px; BACKGROUND: #fff; PADDING-TOP: 10px
+}
+#sidebar DL {
+	MARGIN-LEFT: 5px
+}
+#sidebar DL DT {
+	PADDING-BOTTOM: 5px; MARGIN-TOP: 5px; PADDING-LEFT: 15px; PADDING-RIGHT: 0px; BACKGROUND: url(../Images/dt-11.gif) no-repeat 2px 11px; PADDING-TOP: 4px
+}
+#sidebar DL DD {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 15px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+#sidebar DL DD H4 {
+	PADDING-BOTTOM: 5px; PADDING-LEFT: 10px; PADDING-RIGHT: 0px; BACKGROUND: url(../Images/dt-0.gif) no-repeat left center; FONT-WEIGHT: normal; PADDING-TOP: 5px
+}
+#sidebar DL DT.on A {
+	COLOR: #1c57c4; FONT-WEIGHT: bold
+}
+#sidebar DL H4.on A {
+	FONT-WEIGHT: bold
+}
+.sidebar .sb_box {
+	WIDTH: 755px; BACKGROUND: #fff; FLOAT: right; OVERFLOW: hidden
+}
+.sidebar .sb_box H3.title {
+	BORDER-BOTTOM: #ddd 1px solid; POSITION: relative; LINE-HEIGHT: 35px; BACKGROUND: #f8f8f8; HEIGHT: 35px
+}
+.sidebar .sb_box H3.title SPAN {
+	BORDER-BOTTOM: #ff6633 2px solid; POSITION: absolute; PADDING-BOTTOM: 0px; PADDING-LEFT: 15px; PADDING-RIGHT: 15px; FONT-SIZE: 14px; TOP: -1px; PADDING-TOP: 0px; LEFT: 0px
+}
+.sidebar .sb_box H3.title DIV.position {
+	POSITION: relative; FLOAT: right; TOP: 3px; RIGHT: 15px; FONT-WEIGHT: normal
+}
+.sidebar .sb_box H3.title DIV.position A {
+	COLOR: #1c57c4
+}

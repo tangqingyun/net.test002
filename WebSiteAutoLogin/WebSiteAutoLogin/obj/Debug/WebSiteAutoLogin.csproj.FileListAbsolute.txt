@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\示例项目\WebSiteAutoLogin\WebSiteAutoLogin\bin\Debug\WebSiteAutoLogin.exe.config
+C:\Users\Administrator\Desktop\示例项目\WebSiteAutoLogin\WebSiteAutoLogin\bin\Debug\WebSiteAutoLogin.exe
+C:\Users\Administrator\Desktop\示例项目\WebSiteAutoLogin\WebSiteAutoLogin\bin\Debug\WebSiteAutoLogin.pdb
+C:\Users\Administrator\Desktop\示例项目\WebSiteAutoLogin\WebSiteAutoLogin\obj\Debug\WebSiteAutoLogin.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\示例项目\WebSiteAutoLogin\WebSiteAutoLogin\obj\Debug\WebSiteAutoLogin.exe
+C:\Users\Administrator\Desktop\示例项目\WebSiteAutoLogin\WebSiteAutoLogin\obj\Debug\WebSiteAutoLogin.pdb

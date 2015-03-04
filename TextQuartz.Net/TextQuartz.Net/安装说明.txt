@@ -1,0 +1,15 @@
+cd C:\Windows\Microsoft.NET\Framework\v4.0.30319>sc delete MyQuartzService
+[SC] DeleteService 成功
+
+C:\Windows\Microsoft.NET\Framework\v4.0.30319>sc create MyQuartzService binpath=
+ C:\Users\Administrator\Desktop\示例项目\TextQuartz.Net\TextQuartz.Net\bin\Debug
+\TextQuartz.Net.exe
+[SC] CreateService 失败 1072:
+
+指定的服务已标记为删除。
+C:\Windows\Microsoft.NET\Framework\v4.0.30319>sc create MyQuartzService binpath=
+ C:\Users\Administrator\Desktop\示例项目\TextQuartz.Net\TextQuartz.Net\bin\Debug
+\TextQuartz.Net.exe
+[SC] CreateService 成功
+
+C:\Windows\Microsoft.NET\Framework\v4.0.30319>

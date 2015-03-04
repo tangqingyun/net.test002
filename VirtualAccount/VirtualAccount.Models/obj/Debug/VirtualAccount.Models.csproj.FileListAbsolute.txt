@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\示例项目\VirtualAccount\VirtualAccount.Models\bin\Debug\VirtualAccount.Models.dll
+C:\Users\Administrator\Desktop\示例项目\VirtualAccount\VirtualAccount.Models\bin\Debug\VirtualAccount.Models.pdb
+C:\Users\Administrator\Desktop\示例项目\VirtualAccount\VirtualAccount.Models\obj\Debug\VirtualAccount.Models.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\示例项目\VirtualAccount\VirtualAccount.Models\obj\Debug\VirtualAccount.Models.dll
+C:\Users\Administrator\Desktop\示例项目\VirtualAccount\VirtualAccount.Models\obj\Debug\VirtualAccount.Models.pdb

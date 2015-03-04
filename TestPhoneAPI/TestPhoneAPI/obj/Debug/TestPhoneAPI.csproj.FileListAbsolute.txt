@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\示例项目\TestPhoneAPI\TestPhoneAPI\bin\Debug\TestPhoneAPI.exe.config
+C:\Users\Administrator\Desktop\示例项目\TestPhoneAPI\TestPhoneAPI\bin\Debug\TestPhoneAPI.exe
+C:\Users\Administrator\Desktop\示例项目\TestPhoneAPI\TestPhoneAPI\bin\Debug\TestPhoneAPI.pdb
+C:\Users\Administrator\Desktop\示例项目\TestPhoneAPI\TestPhoneAPI\obj\Debug\TestPhoneAPI.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\示例项目\TestPhoneAPI\TestPhoneAPI\obj\Debug\TestPhoneAPI.Properties.Resources.resources
+C:\Users\Administrator\Desktop\示例项目\TestPhoneAPI\TestPhoneAPI\obj\Debug\TestPhoneAPI.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\示例项目\TestPhoneAPI\TestPhoneAPI\obj\Debug\TestPhoneAPI.exe
+C:\Users\Administrator\Desktop\示例项目\TestPhoneAPI\TestPhoneAPI\obj\Debug\TestPhoneAPI.pdb
+C:\Users\Administrator\Desktop\示例项目\TestPhoneAPI\TestPhoneAPI\obj\Debug\TestPhoneAPI.Main.resources

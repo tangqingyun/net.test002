@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\SpringDotNet\Spring.Domain\bin\Debug\Spring.Domain.dll
+C:\Users\Administrator\Desktop\SpringDotNet\Spring.Domain\bin\Debug\Spring.Domain.pdb
+C:\Users\Administrator\Desktop\SpringDotNet\Spring.Domain\obj\Debug\Spring.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\SpringDotNet\Spring.Domain\obj\Debug\Spring.Domain.dll
+C:\Users\Administrator\Desktop\SpringDotNet\Spring.Domain\obj\Debug\Spring.Domain.pdb

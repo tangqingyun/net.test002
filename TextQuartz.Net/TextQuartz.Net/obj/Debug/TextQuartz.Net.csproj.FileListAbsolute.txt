@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\示例项目\TextQuartz.Net\TextQuartz.Net\bin\Debug\TextQuartz.Net.exe
+C:\Users\Administrator\Desktop\示例项目\TextQuartz.Net\TextQuartz.Net\bin\Debug\Common.Logging.dll
+C:\Users\Administrator\Desktop\示例项目\TextQuartz.Net\TextQuartz.Net\bin\Debug\Quartz.dll
+C:\Users\Administrator\Desktop\示例项目\TextQuartz.Net\TextQuartz.Net\bin\Debug\Topshelf.dll
+C:\Users\Administrator\Desktop\示例项目\TextQuartz.Net\TextQuartz.Net\bin\Debug\Topshelf.Log4Net.dll
+C:\Users\Administrator\Desktop\示例项目\TextQuartz.Net\TextQuartz.Net\bin\Debug\Quartz.pdb
+C:\Users\Administrator\Desktop\示例项目\TextQuartz.Net\TextQuartz.Net\bin\Debug\Quartz.xml
+C:\Users\Administrator\Desktop\示例项目\TextQuartz.Net\TextQuartz.Net\obj\Debug\TextQuartz.Net.exe
+C:\Users\Administrator\Desktop\示例项目\TextQuartz.Net\TextQuartz.Net\obj\Debug\TextQuartz.Net.pdb
+C:\Users\Administrator\Desktop\示例项目\TextQuartz.Net\TextQuartz.Net\bin\Debug\TextQuartz.Net.pdb
+C:\Users\Administrator\Desktop\示例项目\TextQuartz.Net\TextQuartz.Net\obj\Debug\TextQuartz.Net.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\示例项目\TextQuartz.Net\TextQuartz.Net\bin\Debug\TextQuartz.Net.exe.config
+C:\Users\Administrator\Desktop\示例项目\TextQuartz.Net\TextQuartz.Net\obj\Debug\TextQuartz.Net.MyQuartzServiceInstaller.resources
+C:\Users\Administrator\Desktop\示例项目\TextQuartz.Net\TextQuartz.Net\obj\Debug\TextQuartz.Net.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\示例项目\TextQuartz.Net\TextQuartz.Net\bin\Debug\quartz_jobs.xml
+C:\Users\Administrator\Desktop\示例项目\TextQuartz.Net\TextQuartz.Net\bin\Debug\quartz.config

@@ -1,0 +1,1 @@
+﻿微软为管理IIS7提供了非常强大的API——Microsoft.Web.Administration，可以很方便的让我们以编程的方式管理，设定IIS 7的各项配置。Microsoft.Web.Administration.dll位于IIS的目录（%WinDir%\System32\InetSrv）下，在项目中添加对其的引用后您就可以使用这些API了。下图显示了Microsoft.Web.Administration.dll中的主要对象

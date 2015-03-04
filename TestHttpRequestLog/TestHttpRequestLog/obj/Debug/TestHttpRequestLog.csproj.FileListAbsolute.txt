@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\示例项目\TestHttpRequestLog\TestHttpRequestLog\bin\Debug\TestHttpRequestLog.exe
+C:\Users\Administrator\Desktop\示例项目\TestHttpRequestLog\TestHttpRequestLog\bin\Debug\TestHttpRequestLog.pdb
+C:\Users\Administrator\Desktop\示例项目\TestHttpRequestLog\TestHttpRequestLog\obj\Debug\TestHttpRequestLog.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\示例项目\TestHttpRequestLog\TestHttpRequestLog\obj\Debug\TestHttpRequestLog.exe
+C:\Users\Administrator\Desktop\示例项目\TestHttpRequestLog\TestHttpRequestLog\obj\Debug\TestHttpRequestLog.pdb

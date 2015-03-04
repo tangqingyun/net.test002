@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\示例项目\Ejoy365Recharge\Ejoy365Recharge\bin\Ejoy365Recharge.dll
+C:\Users\Administrator\Desktop\示例项目\Ejoy365Recharge\Ejoy365Recharge\bin\Ejoy365Recharge.pdb
+C:\Users\Administrator\Desktop\示例项目\Ejoy365Recharge\Ejoy365Recharge\obj\Debug\Ejoy365Recharge.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\示例项目\Ejoy365Recharge\Ejoy365Recharge\obj\Debug\Ejoy365Recharge.dll
+C:\Users\Administrator\Desktop\示例项目\Ejoy365Recharge\Ejoy365Recharge\obj\Debug\Ejoy365Recharge.pdb

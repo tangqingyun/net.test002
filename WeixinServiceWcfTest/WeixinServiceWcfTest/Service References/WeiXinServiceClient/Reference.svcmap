@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="6ab51dcf-7a91-4757-a893-0d2ad04f05dd" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://weixinservice.uni2uni.com/SecretaryCardSerivce.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="SecretaryCardSerivce.xsd" MetadataType="Schema" ID="4ba996ce-8f98-4247-a4e4-1b05e5e3b284" SourceId="1" SourceUrl="http://weixinservice.uni2uni.com/SecretaryCardSerivce.svc?xsd=xsd1" />
+    <MetadataFile FileName="SecretaryCardSerivce1.xsd" MetadataType="Schema" ID="57514a43-084e-4c54-b4a4-cd81552b8a69" SourceId="1" SourceUrl="http://weixinservice.uni2uni.com/SecretaryCardSerivce.svc?xsd=xsd0" />
+    <MetadataFile FileName="SecretaryCardSerivce.disco" MetadataType="Disco" ID="030f2523-6f28-486c-9e5b-25388f0f486b" SourceId="1" SourceUrl="http://weixinservice.uni2uni.com/SecretaryCardSerivce.svc?disco" />
+    <MetadataFile FileName="SecretaryCardSerivce.wsdl" MetadataType="Wsdl" ID="1c23bb83-5592-493b-94d3-4a0a2fae0b6c" SourceId="1" SourceUrl="http://weixinservice.uni2uni.com/SecretaryCardSerivce.svc?wsdl" />
+    <MetadataFile FileName="SecretaryCardSerivce2.xsd" MetadataType="Schema" ID="a8ddb29e-6ef7-439e-ab70-3fd2cb207dff" SourceId="1" SourceUrl="http://weixinservice.uni2uni.com/SecretaryCardSerivce.svc?xsd=xsd3" />
+    <MetadataFile FileName="SecretaryCardSerivce3.xsd" MetadataType="Schema" ID="697e8996-24e1-4cf4-be15-864479be2090" SourceId="1" SourceUrl="http://weixinservice.uni2uni.com/SecretaryCardSerivce.svc?xsd=xsd2" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

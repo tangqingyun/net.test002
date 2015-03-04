@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\示例项目\TestPhoneCall\TestPhoneCall\bin\TestPhoneCall.dll
+C:\Users\Administrator\Desktop\示例项目\TestPhoneCall\TestPhoneCall\bin\TestPhoneCall.pdb
+C:\Users\Administrator\Desktop\示例项目\TestPhoneCall\TestPhoneCall\obj\Debug\TestPhoneCall.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\示例项目\TestPhoneCall\TestPhoneCall\obj\Debug\TestPhoneCall.dll
+C:\Users\Administrator\Desktop\示例项目\TestPhoneCall\TestPhoneCall\obj\Debug\TestPhoneCall.pdb

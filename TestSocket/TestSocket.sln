@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestSocket", "TestSocket\TestSocket.csproj", "{4283475B-1D48-44F2-8ECF-17F10BA15EC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppClient", "ConsoleAppClient\ConsoleAppClient.csproj", "{12D39DD5-34C8-4C8E-9FAE-525A4DE22990}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppClient", "WebAppClient\WebAppClient.csproj", "{583C07B9-C60C-4281-8C11-00FABFD88326}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4283475B-1D48-44F2-8ECF-17F10BA15EC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4283475B-1D48-44F2-8ECF-17F10BA15EC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4283475B-1D48-44F2-8ECF-17F10BA15EC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4283475B-1D48-44F2-8ECF-17F10BA15EC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12D39DD5-34C8-4C8E-9FAE-525A4DE22990}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12D39DD5-34C8-4C8E-9FAE-525A4DE22990}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12D39DD5-34C8-4C8E-9FAE-525A4DE22990}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12D39DD5-34C8-4C8E-9FAE-525A4DE22990}.Release|Any CPU.Build.0 = Release|Any CPU
+		{583C07B9-C60C-4281-8C11-00FABFD88326}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{583C07B9-C60C-4281-8C11-00FABFD88326}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{583C07B9-C60C-4281-8C11-00FABFD88326}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{583C07B9-C60C-4281-8C11-00FABFD88326}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

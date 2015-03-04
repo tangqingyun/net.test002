@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\示例项目\UniCardService\UniCardService\bin\Debug\UniCardService.exe.config
+C:\Users\Administrator\Desktop\示例项目\UniCardService\UniCardService\bin\Debug\UniCardService.exe
+C:\Users\Administrator\Desktop\示例项目\UniCardService\UniCardService\bin\Debug\UniCardService.pdb
+C:\Users\Administrator\Desktop\示例项目\UniCardService\UniCardService\obj\Debug\UniCardService.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\示例项目\UniCardService\UniCardService\obj\Debug\UniCardService.exe
+C:\Users\Administrator\Desktop\示例项目\UniCardService\UniCardService\obj\Debug\UniCardService.pdb
+C:\Users\Administrator\Desktop\示例项目\UniCardService\UniCardService\bin\Debug\Uni2uni.UniCard.ClientAPI.dll

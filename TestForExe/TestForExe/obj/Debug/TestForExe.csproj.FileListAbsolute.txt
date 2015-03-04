@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\示例项目\TestForExe\TestForExe\bin\Debug\TestForExe.exe
+C:\Users\Administrator\Desktop\示例项目\TestForExe\TestForExe\bin\Debug\TestForExe.pdb
+C:\Users\Administrator\Desktop\示例项目\TestForExe\TestForExe\obj\Debug\TestForExe.exe
+C:\Users\Administrator\Desktop\示例项目\TestForExe\TestForExe\obj\Debug\TestForExe.pdb
+C:\Users\Administrator\Desktop\示例项目\TestForExe\TestForExe\obj\Debug\TestForExe.csprojResolveAssemblyReference.cache

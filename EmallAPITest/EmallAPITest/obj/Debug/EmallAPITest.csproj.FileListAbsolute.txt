@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\示例项目\EmallAPITest\EmallAPITest\bin\Debug\EmallAPITest.exe.config
+C:\Users\Administrator\Desktop\示例项目\EmallAPITest\EmallAPITest\bin\Debug\EmallAPITest.exe
+C:\Users\Administrator\Desktop\示例项目\EmallAPITest\EmallAPITest\bin\Debug\EmallAPITest.pdb
+C:\Users\Administrator\Desktop\示例项目\EmallAPITest\EmallAPITest\obj\Debug\EmallAPITest.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\示例项目\EmallAPITest\EmallAPITest\obj\Debug\EmallAPITest.exe
+C:\Users\Administrator\Desktop\示例项目\EmallAPITest\EmallAPITest\obj\Debug\EmallAPITest.pdb

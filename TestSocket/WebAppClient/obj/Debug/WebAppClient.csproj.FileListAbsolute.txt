@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\示例项目\TestSocket\WebAppClient\bin\WebAppClient.dll
+C:\Users\Administrator\Desktop\示例项目\TestSocket\WebAppClient\bin\WebAppClient.pdb
+C:\Users\Administrator\Desktop\示例项目\TestSocket\WebAppClient\obj\Debug\WebAppClient.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\示例项目\TestSocket\WebAppClient\obj\Debug\WebAppClient.dll
+C:\Users\Administrator\Desktop\示例项目\TestSocket\WebAppClient\obj\Debug\WebAppClient.pdb

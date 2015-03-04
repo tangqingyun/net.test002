@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\示例项目\TestGoodsWin\TestGoodsWin\bin\Debug\TestGoodsWin.exe.config
+C:\Users\Administrator\Desktop\示例项目\TestGoodsWin\TestGoodsWin\bin\Debug\TestGoodsWin.exe
+C:\Users\Administrator\Desktop\示例项目\TestGoodsWin\TestGoodsWin\bin\Debug\TestGoodsWin.pdb
+C:\Users\Administrator\Desktop\示例项目\TestGoodsWin\TestGoodsWin\bin\Debug\MSSQL.dll
+C:\Users\Administrator\Desktop\示例项目\TestGoodsWin\TestGoodsWin\obj\Debug\TestGoodsWin.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\示例项目\TestGoodsWin\TestGoodsWin\obj\Debug\TestGoodsWin.exe
+C:\Users\Administrator\Desktop\示例项目\TestGoodsWin\TestGoodsWin\obj\Debug\TestGoodsWin.pdb

@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\示例项目\TestSocket\ConsoleAppClient\bin\Debug\ConsoleAppClient.exe
+C:\Users\Administrator\Desktop\示例项目\TestSocket\ConsoleAppClient\bin\Debug\ConsoleAppClient.pdb
+C:\Users\Administrator\Desktop\示例项目\TestSocket\ConsoleAppClient\obj\Debug\ConsoleAppClient.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\示例项目\TestSocket\ConsoleAppClient\obj\Debug\ConsoleAppClient.exe
+C:\Users\Administrator\Desktop\示例项目\TestSocket\ConsoleAppClient\obj\Debug\ConsoleAppClient.pdb

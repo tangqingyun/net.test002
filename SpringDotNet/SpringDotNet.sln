@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spring.Domain", "Spring.Domain\Spring.Domain.csproj", "{35AED8C7-B5CE-4CC5-936B-081DF8804A2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spring.IService", "Spring.IService\Spring.IService.csproj", "{696CB2DE-0CF9-4CE4-9548-5110236517B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spring.Service", "Spring.Service\Spring.Service.csproj", "{ABA00913-7217-445A-B5C9-FA89054BDD8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spring.BllManager", "Spring.BllManager\Spring.BllManager.csproj", "{D08B4147-C95E-41EA-A868-C428EFA39031}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spring.UnitTest", "Spring.UnitTest\Spring.UnitTest.csproj", "{E8965A9B-D1E1-4909-A3CB-CDBC1C267D7C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Package", "Package", "{EF7ADFA4-517A-403A-84C3-636851124F68}"
+	ProjectSection(SolutionItems) = preProject
+		..\SpringNet_Lesson1\lib\Common.Logging.dll = ..\SpringNet_Lesson1\lib\Common.Logging.dll
+		..\SpringNet_Lesson1\lib\Spring.Core.dll = ..\SpringNet_Lesson1\lib\Spring.Core.dll
+		..\SpringNet_Lesson1\lib\Spring.Data.dll = ..\SpringNet_Lesson1\lib\Spring.Data.dll
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String.UI", "String.UI\String.UI.csproj", "{8DC75E4D-DE68-4791-8DC0-4C3A1A1F7244}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35AED8C7-B5CE-4CC5-936B-081DF8804A2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35AED8C7-B5CE-4CC5-936B-081DF8804A2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35AED8C7-B5CE-4CC5-936B-081DF8804A2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35AED8C7-B5CE-4CC5-936B-081DF8804A2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{696CB2DE-0CF9-4CE4-9548-5110236517B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{696CB2DE-0CF9-4CE4-9548-5110236517B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{696CB2DE-0CF9-4CE4-9548-5110236517B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{696CB2DE-0CF9-4CE4-9548-5110236517B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABA00913-7217-445A-B5C9-FA89054BDD8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABA00913-7217-445A-B5C9-FA89054BDD8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABA00913-7217-445A-B5C9-FA89054BDD8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABA00913-7217-445A-B5C9-FA89054BDD8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D08B4147-C95E-41EA-A868-C428EFA39031}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D08B4147-C95E-41EA-A868-C428EFA39031}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D08B4147-C95E-41EA-A868-C428EFA39031}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D08B4147-C95E-41EA-A868-C428EFA39031}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8965A9B-D1E1-4909-A3CB-CDBC1C267D7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8965A9B-D1E1-4909-A3CB-CDBC1C267D7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8965A9B-D1E1-4909-A3CB-CDBC1C267D7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8965A9B-D1E1-4909-A3CB-CDBC1C267D7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DC75E4D-DE68-4791-8DC0-4C3A1A1F7244}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DC75E4D-DE68-4791-8DC0-4C3A1A1F7244}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DC75E4D-DE68-4791-8DC0-4C3A1A1F7244}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DC75E4D-DE68-4791-8DC0-4C3A1A1F7244}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

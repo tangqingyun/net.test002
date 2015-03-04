@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\示例项目\TestAspNetWebApi\ClientAPI\bin\Debug\ClientAPI.exe.config
+C:\Users\Administrator\Desktop\示例项目\TestAspNetWebApi\ClientAPI\bin\Debug\ClientAPI.exe
+C:\Users\Administrator\Desktop\示例项目\TestAspNetWebApi\ClientAPI\bin\Debug\ClientAPI.pdb
+C:\Users\Administrator\Desktop\示例项目\TestAspNetWebApi\ClientAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\示例项目\TestAspNetWebApi\ClientAPI\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Administrator\Desktop\示例项目\TestAspNetWebApi\ClientAPI\bin\Debug\System.Web.Http.dll
+C:\Users\Administrator\Desktop\示例项目\TestAspNetWebApi\ClientAPI\bin\Debug\System.Web.Http.SelfHost.dll
+C:\Users\Administrator\Desktop\示例项目\TestAspNetWebApi\ClientAPI\obj\Debug\ClientAPI.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\示例项目\TestAspNetWebApi\ClientAPI\obj\Debug\ClientAPI.exe
+C:\Users\Administrator\Desktop\示例项目\TestAspNetWebApi\ClientAPI\obj\Debug\ClientAPI.pdb

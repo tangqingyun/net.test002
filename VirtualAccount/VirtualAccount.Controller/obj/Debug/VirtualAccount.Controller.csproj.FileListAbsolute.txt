@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\示例项目\VirtualAccount\VirtualAccount.Controller\bin\Debug\VirtualAccount.Controller.dll
+C:\Users\Administrator\Desktop\示例项目\VirtualAccount\VirtualAccount.Controller\bin\Debug\VirtualAccount.Controller.pdb
+C:\Users\Administrator\Desktop\示例项目\VirtualAccount\VirtualAccount.Controller\obj\Debug\VirtualAccount.Controller.dll
+C:\Users\Administrator\Desktop\示例项目\VirtualAccount\VirtualAccount.Controller\obj\Debug\VirtualAccount.Controller.pdb
+C:\Users\Administrator\Desktop\示例项目\VirtualAccount\VirtualAccount.Controller\bin\Debug\System.Web.Http.dll
+C:\Users\Administrator\Desktop\示例项目\VirtualAccount\VirtualAccount.Controller\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Administrator\Desktop\示例项目\VirtualAccount\VirtualAccount.Controller\bin\Debug\System.Web.Http.xml
+C:\Users\Administrator\Desktop\示例项目\VirtualAccount\VirtualAccount.Controller\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Administrator\Desktop\示例项目\VirtualAccount\VirtualAccount.Controller\bin\Debug\zh-Hans\System.Web.Http.resources.dll
+C:\Users\Administrator\Desktop\示例项目\VirtualAccount\VirtualAccount.Controller\bin\Debug\zh-Hans\System.Net.Http.Formatting.resources.dll
+C:\Users\Administrator\Desktop\示例项目\VirtualAccount\VirtualAccount.Controller\obj\Debug\VirtualAccount.Controller.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\示例项目\VirtualAccount\VirtualAccount.Controller\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\示例项目\VirtualAccount\VirtualAccount.Controller\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Administrator\Desktop\示例项目\VirtualAccount\VirtualAccount.Controller\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\示例项目\VirtualAccount\VirtualAccount.Controller\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Administrator\Desktop\示例项目\VirtualAccount\VirtualAccount.Controller\bin\Debug\zh-Hans\System.Web.Http.WebHost.resources.dll

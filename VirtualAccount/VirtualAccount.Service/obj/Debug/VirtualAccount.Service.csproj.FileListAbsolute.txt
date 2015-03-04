@@ -1,0 +1,4 @@
+C:\Users\Administrator\Desktop\示例项目\VirtualAccount\VirtualAccount.Service\bin\Debug\VirtualAccount.Service.dll
+C:\Users\Administrator\Desktop\示例项目\VirtualAccount\VirtualAccount.Service\bin\Debug\VirtualAccount.Service.pdb
+C:\Users\Administrator\Desktop\示例项目\VirtualAccount\VirtualAccount.Service\obj\Debug\VirtualAccount.Service.dll
+C:\Users\Administrator\Desktop\示例项目\VirtualAccount\VirtualAccount.Service\obj\Debug\VirtualAccount.Service.pdb

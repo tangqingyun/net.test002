@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\示例项目\TestCinemaClubAPI\TestCinemaWCF\bin\TestCinemaWCF.dll
+C:\Users\Administrator\Desktop\示例项目\TestCinemaClubAPI\TestCinemaWCF\bin\TestCinemaWCF.pdb
+C:\Users\Administrator\Desktop\示例项目\TestCinemaClubAPI\TestCinemaWCF\obj\Debug\TestCinemaWCF.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\示例项目\TestCinemaClubAPI\TestCinemaWCF\obj\Debug\TestCinemaWCF.dll
+C:\Users\Administrator\Desktop\示例项目\TestCinemaClubAPI\TestCinemaWCF\obj\Debug\TestCinemaWCF.pdb

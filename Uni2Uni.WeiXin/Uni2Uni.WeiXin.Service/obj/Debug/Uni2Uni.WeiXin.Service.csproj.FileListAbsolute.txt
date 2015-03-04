@@ -1,0 +1,4 @@
+C:\Users\Administrator\Desktop\示例项目\Uni2Uni.WeiXin\Uni2Uni.WeiXin.Service\bin\Debug\Uni2Uni.WeiXin.Service.dll
+C:\Users\Administrator\Desktop\示例项目\Uni2Uni.WeiXin\Uni2Uni.WeiXin.Service\bin\Debug\Uni2Uni.WeiXin.Service.pdb
+C:\Users\Administrator\Desktop\示例项目\Uni2Uni.WeiXin\Uni2Uni.WeiXin.Service\obj\Debug\Uni2Uni.WeiXin.Service.dll
+C:\Users\Administrator\Desktop\示例项目\Uni2Uni.WeiXin\Uni2Uni.WeiXin.Service\obj\Debug\Uni2Uni.WeiXin.Service.pdb

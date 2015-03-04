@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\Administrator\Desktop\示例项目\TestCardJUnit\TestCardJUnit\bin\Debug\TestCardJUnit.exe" total="1" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2013-11-25" time="13:41:00">
+  <environment nunit-version="2.6.3.13283" clr-version="2.0.50727.5420" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.6.3\bin" machine-name="WIN-OBTT7ICRP4I" user="Administrator" user-domain="WIN-OBTT7ICRP4I" />
+  <culture-info current-culture="zh-CN" current-uiculture="zh-CN" />
+  <test-suite type="Assembly" name="C:\Users\Administrator\Desktop\示例项目\TestCardJUnit\TestCardJUnit\bin\Debug\TestCardJUnit.exe" executed="True" result="Success" success="True" time="2.083" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="TestCardJUnit" executed="True" result="Success" success="True" time="2.049" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="JUnitTest" executed="True" result="Success" success="True" time="2.033" asserts="0">
+            <results>
+              <test-case name="TestCardJUnit.JUnitTest.InsertExecuteDetailLifeClub" executed="True" result="Success" success="True" time="2.009" asserts="1" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

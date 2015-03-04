@@ -1,0 +1,15 @@
+.flash6 {
+	POSITION: relative; FONT-SIZE: 0px
+}
+.flash6 .bx-pager {
+	Z-INDEX: 999; POSITION: absolute; BOTTOM: 10px; RIGHT: 10px
+}
+.flash6 .bx-pager .pager-link {
+	TEXT-ALIGN: center; LINE-HEIGHT: 15px; MARGIN: 0px 0px 0px 10px; WIDTH: 15px; BACKGROUND: #fc0; FLOAT: left; HEIGHT: 15px; COLOR: #930
+}
+.flash6 .bx-pager .pager-link:hover {
+	TEXT-DECORATION: none
+}
+.flash6 .bx-pager .pager-active {
+	BACKGROUND: #0c3; COLOR: #fff
+}

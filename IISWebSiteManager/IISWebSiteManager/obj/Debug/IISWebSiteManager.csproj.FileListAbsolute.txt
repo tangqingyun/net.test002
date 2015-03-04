@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\IISWebSiteManager\IISWebSiteManager\bin\Debug\IISWebSiteManager.exe
+C:\Users\Administrator\Desktop\IISWebSiteManager\IISWebSiteManager\bin\Debug\IISWebSiteManager.pdb
+C:\Users\Administrator\Desktop\IISWebSiteManager\IISWebSiteManager\obj\Debug\IISWebSiteManager.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\IISWebSiteManager\IISWebSiteManager\obj\Debug\IISWebSiteManager.Properties.Resources.resources
+C:\Users\Administrator\Desktop\IISWebSiteManager\IISWebSiteManager\obj\Debug\IISWebSiteManager.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\IISWebSiteManager\IISWebSiteManager\obj\Debug\IISWebSiteManager.exe
+C:\Users\Administrator\Desktop\IISWebSiteManager\IISWebSiteManager\obj\Debug\IISWebSiteManager.pdb
+C:\Users\Administrator\Desktop\IISWebSiteManager\IISWebSiteManager\bin\Debug\IISWebSiteManager.exe.config
+C:\Users\Administrator\Desktop\IISWebSiteManager\IISWebSiteManager\obj\Debug\IISWebSiteManager.MainForm.resources

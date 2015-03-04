@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\示例项目\TestInternetCookie\TestInternetCookie\bin\TestInternetCookie.dll
+C:\Users\Administrator\Desktop\示例项目\TestInternetCookie\TestInternetCookie\bin\TestInternetCookie.pdb
+C:\Users\Administrator\Desktop\示例项目\TestInternetCookie\TestInternetCookie\obj\Debug\TestInternetCookie.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\示例项目\TestInternetCookie\TestInternetCookie\obj\Debug\TestInternetCookie.dll
+C:\Users\Administrator\Desktop\示例项目\TestInternetCookie\TestInternetCookie\obj\Debug\TestInternetCookie.pdb
+C:\Users\Administrator\Desktop\示例项目\TestInternetCookie\TestInternetCookie\bin\Common.dll
+C:\Users\Administrator\Desktop\示例项目\TestInternetCookie\TestInternetCookie\bin\Common.pdb

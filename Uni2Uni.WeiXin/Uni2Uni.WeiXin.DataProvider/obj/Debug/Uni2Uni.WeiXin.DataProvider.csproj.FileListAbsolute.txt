@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\示例项目\Uni2Uni.WeiXin\Uni2Uni.WeiXin.DataProvider\bin\Debug\Uni2Uni.WeiXin.DataProvider.dll
+C:\Users\Administrator\Desktop\示例项目\Uni2Uni.WeiXin\Uni2Uni.WeiXin.DataProvider\bin\Debug\Uni2Uni.WeiXin.DataProvider.pdb
+C:\Users\Administrator\Desktop\示例项目\Uni2Uni.WeiXin\Uni2Uni.WeiXin.DataProvider\obj\Debug\Uni2Uni.WeiXin.DataProvider.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\示例项目\Uni2Uni.WeiXin\Uni2Uni.WeiXin.DataProvider\obj\Debug\Uni2Uni.WeiXin.DataProvider.dll
+C:\Users\Administrator\Desktop\示例项目\Uni2Uni.WeiXin\Uni2Uni.WeiXin.DataProvider\obj\Debug\Uni2Uni.WeiXin.DataProvider.pdb

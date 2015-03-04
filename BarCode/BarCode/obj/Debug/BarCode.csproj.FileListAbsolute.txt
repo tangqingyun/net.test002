@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\示例项目\BarCode\BarCode\bin\Debug\BarCode.exe.config
+C:\Users\Administrator\Desktop\示例项目\BarCode\BarCode\obj\Debug\BarCode.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\示例项目\BarCode\BarCode\bin\Debug\BarCode.exe
+C:\Users\Administrator\Desktop\示例项目\BarCode\BarCode\bin\Debug\BarCode.pdb
+C:\Users\Administrator\Desktop\示例项目\BarCode\BarCode\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\Administrator\Desktop\示例项目\BarCode\BarCode\obj\Debug\BarCode.exe
+C:\Users\Administrator\Desktop\示例项目\BarCode\BarCode\obj\Debug\BarCode.pdb

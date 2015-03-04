@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\示例项目\uni2uni.script.tools\uni2uni.script.main\bin\Debug\uni2uni.script.main.exe.config
+C:\Users\Administrator\Desktop\示例项目\uni2uni.script.tools\uni2uni.script.main\bin\Debug\uni2uni.script.main.exe
+C:\Users\Administrator\Desktop\示例项目\uni2uni.script.tools\uni2uni.script.main\bin\Debug\uni2uni.script.main.pdb
+C:\Users\Administrator\Desktop\示例项目\uni2uni.script.tools\uni2uni.script.main\bin\Debug\uni2uni.script.bll.dll
+C:\Users\Administrator\Desktop\示例项目\uni2uni.script.tools\uni2uni.script.main\bin\Debug\uni2uni.script.model.dll
+C:\Users\Administrator\Desktop\示例项目\uni2uni.script.tools\uni2uni.script.main\bin\Debug\uni2uni.script.dal.dll
+C:\Users\Administrator\Desktop\示例项目\uni2uni.script.tools\uni2uni.script.main\bin\Debug\MSSQL.dll
+C:\Users\Administrator\Desktop\示例项目\uni2uni.script.tools\uni2uni.script.main\bin\Debug\uni2uni.script.bll.pdb
+C:\Users\Administrator\Desktop\示例项目\uni2uni.script.tools\uni2uni.script.main\bin\Debug\uni2uni.script.model.pdb
+C:\Users\Administrator\Desktop\示例项目\uni2uni.script.tools\uni2uni.script.main\bin\Debug\uni2uni.script.dal.pdb
+C:\Users\Administrator\Desktop\示例项目\uni2uni.script.tools\uni2uni.script.main\obj\Debug\uni2uni.script.main.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\示例项目\uni2uni.script.tools\uni2uni.script.main\obj\Debug\uni2uni.script.main.MainForm.resources
+C:\Users\Administrator\Desktop\示例项目\uni2uni.script.tools\uni2uni.script.main\obj\Debug\uni2uni.script.main.Properties.Resources.resources
+C:\Users\Administrator\Desktop\示例项目\uni2uni.script.tools\uni2uni.script.main\obj\Debug\uni2uni.script.main.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\示例项目\uni2uni.script.tools\uni2uni.script.main\obj\Debug\uni2uni.script.main.exe
+C:\Users\Administrator\Desktop\示例项目\uni2uni.script.tools\uni2uni.script.main\obj\Debug\uni2uni.script.main.pdb

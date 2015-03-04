@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+您 Web 项目的发布/打包进程将使用此文件。您可以通过编辑此 MSBuild 文件
+来自定义该进程的行为。若要了解与此相关的详细信息，请访问 http://go.microsoft.com/fwlink/?LinkID=208121。
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <LastUsedBuildConfiguration>Release</LastUsedBuildConfiguration>
+    <LastUsedPlatform>Any CPU</LastUsedPlatform>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Antlr3.Runtime.dll">
+      <publishTime>03/04/2014 12:12:14</publishTime>
+    </File>
+    <File Include="bin/EmitMapper.dll">
+      <publishTime>01/09/2014 17:46:37</publishTime>
+    </File>
+    <File Include="bin/EnterpriseMall.DataAccess.dll">
+      <publishTime>03/05/2014 15:15:01</publishTime>
+    </File>
+    <File Include="bin/EnterpriseMall.Models.dll">
+      <publishTime>03/05/2014 15:15:01</publishTime>
+    </File>
+    <File Include="bin/EnterpriseMall.Services.dll">
+      <publishTime>03/05/2014 15:15:02</publishTime>
+    </File>
+    <File Include="bin/EnterpriseMall.WebAPI.dll">
+      <publishTime>03/05/2014 15:15:03</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>03/04/2014 12:11:55</publishTime>
+    </File>
+    <File Include="bin/log4net.dll">
+      <publishTime>01/09/2014 17:46:37</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>03/04/2014 12:12:09</publishTime>
+    </File>
+    <File Include="bin/MongoDB.Bson.dll">
+      <publishTime>01/09/2014 17:46:37</publishTime>
+    </File>
+    <File Include="bin/MongoDB.Driver.dll">
+      <publishTime>01/09/2014 17:46:37</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>03/04/2014 12:12:10</publishTime>
+    </File>
+    <File Include="bin/ServiceStack.Common.dll">
+      <publishTime>03/05/2014 14:27:27</publishTime>
+    </File>
+    <File Include="bin/ServiceStack.Interfaces.dll">
+      <publishTime>03/05/2014 14:27:27</publishTime>
+    </File>
+    <File Include="bin/ServiceStack.Redis.dll">
+      <publishTime>03/05/2014 14:27:28</publishTime>
+    </File>
+    <File Include="bin/ServiceStack.Text.dll">
+      <publishTime>03/05/2014 14:27:28</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Formatting.dll">
+      <publishTime>03/04/2014 12:12:11</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>03/04/2014 12:12:10</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.dll">
+      <publishTime>03/04/2014 12:12:12</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.WebHost.dll">
+      <publishTime>03/04/2014 12:12:12</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>03/04/2014 12:12:11</publishTime>
+    </File>
+    <File Include="bin/System.Web.Optimization.dll">
+      <publishTime>03/04/2014 12:12:14</publishTime>
+    </File>
+    <File Include="bin/System.Web.Providers.dll">
+      <publishTime>03/04/2014 12:12:13</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>03/04/2014 12:12:10</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Deployment.dll">
+      <publishTime>03/04/2014 12:12:10</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.dll">
+      <publishTime>03/04/2014 12:12:11</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Razor.dll">
+      <publishTime>03/04/2014 12:12:11</publishTime>
+    </File>
+    <File Include="bin/Uni2uni.Framework.dll">
+      <publishTime>03/05/2014 14:27:28</publishTime>
+    </File>
+    <File Include="bin/WebGrease.dll">
+      <publishTime>03/04/2014 12:12:14</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/EntityFramework.resources.dll">
+      <publishTime>03/04/2014 12:12:18</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/System.Net.Http.Formatting.resources.dll">
+      <publishTime>03/04/2014 12:12:17</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/System.Web.Helpers.resources.dll">
+      <publishTime>03/04/2014 12:12:16</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/System.Web.Http.resources.dll">
+      <publishTime>03/04/2014 12:12:16</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/System.Web.Http.WebHost.resources.dll">
+      <publishTime>03/04/2014 12:12:17</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/System.Web.Mvc.resources.dll">
+      <publishTime>03/04/2014 12:12:16</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/System.Web.Optimization.resources.dll">
+      <publishTime>03/04/2014 12:12:18</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/System.Web.Providers.resources.dll">
+      <publishTime>03/04/2014 12:12:18</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/System.Web.Razor.resources.dll">
+      <publishTime>03/04/2014 12:12:15</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/System.Web.WebPages.Deployment.resources.dll">
+      <publishTime>03/04/2014 12:12:16</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/System.Web.WebPages.Razor.resources.dll">
+      <publishTime>03/04/2014 12:12:16</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/System.Web.WebPages.resources.dll">
+      <publishTime>03/04/2014 12:12:16</publishTime>
+    </File>
+    <File Include="Configs/Database.config">
+      <publishTime>03/04/2014 15:32:32</publishTime>
+    </File>
+    <File Include="Configs/Framework.config">
+      <publishTime>03/04/2014 13:14:59</publishTime>
+    </File>
+    <File Include="Configs/Log4Net.config">
+      <publishTime>03/04/2014 13:14:59</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>03/04/2014 12:11:45</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>03/04/2014 12:12:18</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>03/05/2014 15:15:03</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

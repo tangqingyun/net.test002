@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\示例项目\TestCardJUnit\ClubSeriesData\bin\Debug\ClubSeriesData.exe.config
+C:\Users\Administrator\Desktop\示例项目\TestCardJUnit\ClubSeriesData\bin\Debug\ClubSeriesData.exe
+C:\Users\Administrator\Desktop\示例项目\TestCardJUnit\ClubSeriesData\bin\Debug\ClubSeriesData.pdb
+C:\Users\Administrator\Desktop\示例项目\TestCardJUnit\ClubSeriesData\bin\Debug\MSSQL.dll
+C:\Users\Administrator\Desktop\示例项目\TestCardJUnit\ClubSeriesData\obj\Debug\ClubSeriesData.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\示例项目\TestCardJUnit\ClubSeriesData\obj\Debug\ClubSeriesData.Form1.resources
+C:\Users\Administrator\Desktop\示例项目\TestCardJUnit\ClubSeriesData\obj\Debug\ClubSeriesData.Properties.Resources.resources
+C:\Users\Administrator\Desktop\示例项目\TestCardJUnit\ClubSeriesData\obj\Debug\ClubSeriesData.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\示例项目\TestCardJUnit\ClubSeriesData\obj\Debug\ClubSeriesData.exe
+C:\Users\Administrator\Desktop\示例项目\TestCardJUnit\ClubSeriesData\obj\Debug\ClubSeriesData.pdb

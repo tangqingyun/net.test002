@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\SpringDotNet\Spring.Service\bin\Debug\Spring.Service.dll
+C:\Users\Administrator\Desktop\SpringDotNet\Spring.Service\bin\Debug\Spring.Service.pdb
+C:\Users\Administrator\Desktop\SpringDotNet\Spring.Service\obj\Debug\Spring.Service.dll
+C:\Users\Administrator\Desktop\SpringDotNet\Spring.Service\obj\Debug\Spring.Service.pdb
+C:\Users\Administrator\Desktop\SpringDotNet\Spring.Service\bin\Debug\Spring.Domain.dll
+C:\Users\Administrator\Desktop\SpringDotNet\Spring.Service\bin\Debug\Spring.IService.dll
+C:\Users\Administrator\Desktop\SpringDotNet\Spring.Service\bin\Debug\Spring.Domain.pdb
+C:\Users\Administrator\Desktop\SpringDotNet\Spring.Service\bin\Debug\Spring.IService.pdb
+C:\Users\Administrator\Desktop\SpringDotNet\Spring.Service\obj\Debug\Spring.Service.csprojResolveAssemblyReference.cache

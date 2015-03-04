@@ -1,0 +1,3 @@
+C:\Users\Administrator\Desktop\MyUtility\MyUtility\obj\Debug\MyUtility.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\MyUtility\MyUtility\obj\Debug\MyUtility.dll
+C:\Users\Administrator\Desktop\MyUtility\MyUtility\obj\Debug\MyUtility.pdb

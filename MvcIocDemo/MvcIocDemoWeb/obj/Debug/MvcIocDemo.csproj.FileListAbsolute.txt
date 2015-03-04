@@ -1,0 +1,24 @@
+D:\My Projects\Demo\MvcIocDemo\bin\MvcIocDemo.dll
+D:\My Projects\Demo\MvcIocDemo\bin\MvcIocDemo.pdb
+D:\My Projects\Demo\MvcIocDemo\bin\Microsoft.Practices.ServiceLocation.dll
+D:\My Projects\Demo\MvcIocDemo\bin\Microsoft.Practices.Unity.Configuration.dll
+D:\My Projects\Demo\MvcIocDemo\bin\Microsoft.Practices.Unity.dll
+D:\My Projects\Demo\MvcIocDemo\bin\Microsoft.Practices.ServiceLocation.pdb
+D:\My Projects\Demo\MvcIocDemo\bin\Microsoft.Practices.ServiceLocation.xml
+D:\My Projects\Demo\MvcIocDemo\bin\Microsoft.Practices.Unity.xml
+D:\My Projects\Demo\MvcIocDemo\bin\Microsoft.Practices.Unity.Configuration.xml
+D:\My Projects\Demo\MvcIocDemo\obj\Debug\ResolveAssemblyReference.cache
+D:\My Projects\Demo\MvcIocDemo\obj\Debug\MvcIocDemo.dll
+D:\My Projects\Demo\MvcIocDemo\obj\Debug\MvcIocDemo.pdb
+C:\Users\Administrator\Desktop\MvcIocDemo\MvcIocDemoWeb\bin\MvcIocDemo.dll
+C:\Users\Administrator\Desktop\MvcIocDemo\MvcIocDemoWeb\bin\MvcIocDemo.pdb
+C:\Users\Administrator\Desktop\MvcIocDemo\MvcIocDemoWeb\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Administrator\Desktop\MvcIocDemo\MvcIocDemoWeb\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Administrator\Desktop\MvcIocDemo\MvcIocDemoWeb\bin\Microsoft.Practices.Unity.dll
+C:\Users\Administrator\Desktop\MvcIocDemo\MvcIocDemoWeb\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Administrator\Desktop\MvcIocDemo\MvcIocDemoWeb\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Administrator\Desktop\MvcIocDemo\MvcIocDemoWeb\bin\Microsoft.Practices.Unity.xml
+C:\Users\Administrator\Desktop\MvcIocDemo\MvcIocDemoWeb\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Administrator\Desktop\MvcIocDemo\MvcIocDemoWeb\obj\Debug\MvcIocDemo.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\MvcIocDemo\MvcIocDemoWeb\obj\Debug\MvcIocDemo.dll
+C:\Users\Administrator\Desktop\MvcIocDemo\MvcIocDemoWeb\obj\Debug\MvcIocDemo.pdb
